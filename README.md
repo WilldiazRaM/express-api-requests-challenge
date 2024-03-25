@@ -11,7 +11,7 @@ El objetivo de este proyecto es crear un servidor Node.js utilizando Express que
 1. Clona este repositorio en tu computadora usando el siguiente comando:
 
 ```
-git clone [<URL_del_repositorio>](https://github.com/WilldiazRaM/express-api-requests-challenge.git)https://github.com/WilldiazRaM/express-api-requests-challenge.git
+git clone https://github.com/WilldiazRaM/express-api-requests-challenge.git
 ```
 
 
